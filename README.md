@@ -2,7 +2,7 @@
 Creates EC2 instances by ami_name
 
 ## Prerequisites
-- VPCs with "dev" | "qa" | "prod" tags ([Sample VPC template](https://github.com/ikambarov/terraform-vpc))
+- VPCs with "dev" | "qa" | "prod" tags ([Sample VPC template](git@github.com:Gheorghe-Rodideal/terraform-vpc.git))
 
 - tfvars
 ```
